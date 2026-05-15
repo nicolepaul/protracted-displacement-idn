@@ -31,5 +31,3 @@ Several common python libraries are used in the notebooks, in addition to custom
 A notebook visualizing correlations and replicating the empirical cumulative distribution functions can be found at: [**0_Exploratory.ipynb**](/0_Exploratory.ipynb)
 
 For figures representing the estimated average treatment effect effects, please see the **img** subfolder.
-
-For the data calculating during analysis, please see **data/results.sav**.
