@@ -1,6 +1,6 @@
 # Protracted displacement after disasters
 
-This repository includes code to estimate direct causal effects of physical, socioeconomic, and psychological factors on displacement duration outcomes using household survey data following the 2018 Central Sulawesi earthquake, tsunami, and liquefaction disaster in Indonesia. The causal effects are estimated using debiased/double machine learning (DML). This is companion code for a manuscript undergoing peer review:
+This repository includes code to estimate the effects of physical, socioeconomic, and psychological factors on displacement duration outcomes using household survey data following the 2018 Central Sulawesi earthquake, tsunami, and liquefaction event in Indonesia. The effects are estimated using debiased/double machine learning (DML). This is companion code for a manuscript undergoing peer review:
 
 * Paul, Nicole, Eyitayo Opabola, Sukiman Nurdin, Dicky Pelupessy, Aulia Damayanti, Reval Rahmat Nurdin, Shafitri Rayhana, Adam, Sifa Salsabila Sahempa, and Carmine Galasso. “Reducing protracted displacement: Evidence for disaster risk reduction policy and practice.” In review. 
 
@@ -16,7 +16,7 @@ To replicate the DAG in DAGgity, please refer to the **dag/replication.dag** fil
 
 For figures repesenting the causal identification for each considered treatment, see the **dag** subfolder.
 
-## Causal effect estimation, sensitivity analyses, and power analyses
+## Effect estimation, sensitivity analyses, and power analyses
 
 The following notebooks are provided to replicate the analysis, separated by each category of considered factors:
 
