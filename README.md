@@ -4,7 +4,7 @@ This repository includes code to estimate the effects of physical, socioeconomic
 
 * Paul, Nicole, Eyitayo Opabola, Sukiman Nurdin, Dicky Pelupessy, Aulia Damayanti, Reval Rahmat Nurdin, Shafitri Rayhana, Adam, Sifa Salsabila Sahempa, and Carmine Galasso. “Reducing protracted displacement: Evidence for disaster risk reduction policy and practice.” In review. 
 
-For information and materials related to the housheold survey itself, including the anonymized household-level responses and survey instrument, please refer to the following:
+For information and materials related to the household survey itself, including the anonymized household-level responses and survey instrument, please refer to the following:
 
 * Paul, Nicole, Eyitayo Opabola, Sukiman Nurdin, Dicky Pelupessy, Aulia Damayanti, Reval Rahmat Nurdin, Shafitri Rayhana, Adam, Sifa Salsabila Sahempa, and Carmine Galasso. “Disaster displacement in context: Household trajectories after the 2018 Central Sulawesi multi-hazard event.” In press.
 
@@ -28,6 +28,6 @@ Several common python libraries are used in the notebooks, in addition to custom
 
 ## Other materials
 
-A notebook visualizing correlations and replicating the empirical cumulative distribution functions can be found at: [**0_Exploratory.ipynb**](/0_Exploratory.ipynb)
+A notebook visualizing correlations and replicating the empirical cumulative distribution functions can be found at: [**0_Exploratory.ipynb**](/0_Exploratory.ipynb).
 
 For figures representing the estimated average treatment effect effects, please see the **img** subfolder.
