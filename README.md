@@ -2,13 +2,13 @@
 
 This repository includes code to estimate direct causal effects of physical, socioeconomic, and psychological factors on displacement duration outcomes using household survey data following the 2018 Central Sulawesi earthquake, tsunami, and liquefaction disaster in Indonesia. The causal effects are estimated using debiased/double machine learning (DML). This is companion code for a manuscript undergoing peer review:
 
-Paul, Nicole, Eyitayo Opabola, Sukiman Nurdin, Dicky Pelupessy, Aulia Damayanti, Reval Rahmat Nurdin, Shafitri Rayhana, Adam, Sifa Salsabila Sahempa, and Carmine Galasso. “Reducing protracted displacement: Evidence for disaster risk reduction policy and practice.” In review. 
+* Paul, Nicole, Eyitayo Opabola, Sukiman Nurdin, Dicky Pelupessy, Aulia Damayanti, Reval Rahmat Nurdin, Shafitri Rayhana, Adam, Sifa Salsabila Sahempa, and Carmine Galasso. “Reducing protracted displacement: Evidence for disaster risk reduction policy and practice.” In review. 
 
 For information and materials related to the housheold survey itself, including the anonymized household-level responses and survey instrument, please refer to the following:
 
-Paul, Nicole, Eyitayo Opabola, Sukiman Nurdin, Dicky Pelupessy, Aulia Damayanti, Reval Rahmat Nurdin, Shafitri Rayhana, Adam, Sifa Salsabila Sahempa, and Carmine Galasso. “Disaster displacement in context: Household trajectories after the 2018 Central Sulawesi multi-hazard event.” In press.
+* Paul, Nicole, Eyitayo Opabola, Sukiman Nurdin, Dicky Pelupessy, Aulia Damayanti, Reval Rahmat Nurdin, Shafitri Rayhana, Adam, Sifa Salsabila Sahempa, and Carmine Galasso. “Disaster displacement in context: Household trajectories after the 2018 Central Sulawesi multi-hazard event.” In press.
 
-Paul, Nicole, Shafitri Adam, Aulia Damayanti, Reval Rahmat Nurdin, Shafitri Rayhana, Adam, Sifa Salsabila Sahempa, Dicky Pelupessy, Sukiman Nurdin, Eyitayo Opabola, and Carmine Galasso. 2025. “Data: Household Relocation after the 2018 Central Sulawesi Earthquake and Tsunami.” RIN Dataverse, August 20. http://data.brin.go.id/dataset.xhtml?persistentId=hdl:20.500.12690/RIN/XXT3TT.
+* Paul, Nicole, Shafitri Adam, Aulia Damayanti, Reval Rahmat Nurdin, Shafitri Rayhana, Adam, Sifa Salsabila Sahempa, Dicky Pelupessy, Sukiman Nurdin, Eyitayo Opabola, and Carmine Galasso. 2025. “Data: Household Relocation after the 2018 Central Sulawesi Earthquake and Tsunami.” RIN Dataverse, August 20. http://data.brin.go.id/dataset.xhtml?persistentId=hdl:20.500.12690/RIN/XXT3TT.
 
 ## Causal identification and assumptions
 

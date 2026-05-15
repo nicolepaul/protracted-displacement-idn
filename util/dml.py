@@ -319,7 +319,7 @@ def plot_results(
 ):
     x_offsets = np.linspace(-0.3, 0.3, num=len(outcomes))
     xtick_labels = [
-        f'{t.split("-", 1).pop().split(") ").pop().replace(" damage"," ").replace("_", " ").replace('place ','place\n'.replace('bove ', 'bove\n')).replace('elow ', 'elow\n').capitalize()}\n(n={data[t].sum():,.0f})'
+        f'{t.split("-", 1).pop().split(") ").pop().replace(" damage"," ").replace("_", " ").replace('place ','place\n').replace('bove ', 'bove\n').replace('elow ', 'elow\n').capitalize()}\n(n={data[t].sum():,.0f})'
         for t in treatments
     ]
 
