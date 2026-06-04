@@ -6,7 +6,7 @@ This repository includes code to estimate the effects of physical, socioeconomic
 
 For information and materials related to the household survey itself, including the anonymized household-level responses and survey instrument, please refer to the following:
 
-* Paul, Nicole, Eyitayo Opabola, Sukiman Nurdin, Dicky Pelupessy, Aulia Damayanti, Reval Rahmat Nurdin, Shafitri Rayhana, Adam, Sifa Salsabila Sahempa, and Carmine Galasso. “Disaster displacement in context: Household trajectories after the 2018 Central Sulawesi multi-hazard event.” In press.
+* PPaul, Nicole, Eyitayo Opabola, Sukiman Nurdin, Dicky Pelupessy, Aulia Damayanti, Reval Rahmat Nurdin, Shafitri Rayhana, Adam, Sifa Salsabila Sahempa, and Carmine Galasso. 2026. “Disaster Displacement in Context: Household Trajectories after the 2018 Central Sulawesi Multi-Hazard Event.” *International Journal of Disaster Risk Reduction* 141. https://doi.org/10.1016/j.ijdrr.2026.106202
 
 * Paul, Nicole, Shafitri Adam, Aulia Damayanti, Reval Rahmat Nurdin, Shafitri Rayhana, Adam, Sifa Salsabila Sahempa, Dicky Pelupessy, Sukiman Nurdin, Eyitayo Opabola, and Carmine Galasso. 2025. “Data: Household Relocation after the 2018 Central Sulawesi Earthquake and Tsunami.” RIN Dataverse, August 20. http://data.brin.go.id/dataset.xhtml?persistentId=hdl:20.500.12690/RIN/XXT3TT.
 
